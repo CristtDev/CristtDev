@@ -32,22 +32,15 @@
 ---
 ### 〽️Some Stats
 <div align="center">
-  <picture >
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristtDev&layout=compact&theme=gotham" />
-</picture>
-</div>
-<br>
-<br>
-<br>
-<div align="center">
-  <picture>
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=CristtDev&show_icons=true&theme=gotham" />
-</picture>
+  <img height="170" alt="Cris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CristtDev&show_icons=true&theme=radical&count_private=true" />
+
+
+
+
+
+<img height="170"  alt="Cris's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristtDev&theme=radical&layout=compact" />
 </div>
 
-<br>
-<br>
-<br>
 
 <!-- FOOTER -->
 <h2 align="center"> Don't forget to follow me <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="50"></h2>
