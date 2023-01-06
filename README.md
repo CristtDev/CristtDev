@@ -35,7 +35,12 @@
   <picture >
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristtDev&layout=compact&theme=gotham" />
 </picture>
-<picture>
+</div>
+<br>
+<br>
+<br>
+<div align="center">
+  <picture>
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=CristtDev&show_icons=true&theme=gotham" />
 </picture>
 </div>
