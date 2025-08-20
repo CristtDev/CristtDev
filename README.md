@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <p>I'm a 22 years developer how loves to code 
-    <br> 🧑🏻‍💻I am a student of Engineering in Sciences and Systems at the University of San Carlos de Guatemala
+  <p>I'm a 24 years FullStack developer how loves to code 
+    <br> 🧑🏻‍💻I finished my studies of Engineering in Sciences and Systems at the University of San Carlos de Guatemala
     <br> 🧑🏻‍💼I work developing systems for a company in Guatemala City
   </p>
 </div>
